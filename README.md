@@ -1,1 +1,1 @@
-# phoneProject the beginnings of the project. not a strong grasp on the logic portion.
+# phoneProject the beginnings of the project.
